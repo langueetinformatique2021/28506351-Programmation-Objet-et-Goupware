@@ -1,0 +1,8 @@
+package tp01;
+/**@author Fanny */
+/*public class SimpleProgramme1 {
+	public static void main(String[] args) {
+		System.out.println("Fanny Ducel");
+	}
+}
+*/
