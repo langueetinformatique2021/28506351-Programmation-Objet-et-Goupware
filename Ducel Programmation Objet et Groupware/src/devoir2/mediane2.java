@@ -1,7 +1,12 @@
 package devoir2;
 
 public class mediane2 {
-
+	/**
+	 * Exercice 4 de la 1re partie du TP4 : 
+	 * Ajouter les instructions structurées par des branchements conditionnels permettant d'obtenir la médiane des variables p1, p2, p3, p4, p5 dans la variable p6
+	 * 
+	 * @author Fanny Ducel
+	 */
 	public static void main(String[] args) {
 		//pour que valeur soit médiane, doit être inférieure à 2 valeurs et supérieure à 2 valeurs
 				//faire chaque cas : cas où p1 est la médiane, p2 est médiane, ...
