@@ -1,7 +1,7 @@
-package tp05;
+package devoir3;
 
 public class Promotion {
-	private String[] listeEtudiants_;
+private String[] listeEtudiants_;
 	
 	/** Création d'une promotion (méthode du constructeur)
 	 * 

@@ -1,6 +1,7 @@
 package tp05;
 
 public class Carafe {
+	//voir dans dossier prof testCarafe
 	//2 attributs privés
 	private int contenu_, capacite_;
 	

@@ -1,4 +1,4 @@
-package tp05;
+package devoir3;
 
 public class Etudiant {
 	/** attributs de classe
