@@ -3,7 +3,7 @@ package devoir4;
 public abstract class Vegetal {
 	private String espèce;
 	private int hauteur_cm;
-	private boolean tronc;
+	protected boolean tronc = false;
 	
 	/**
 	 * création d'une nouvelle instance de la classe Vegetal
