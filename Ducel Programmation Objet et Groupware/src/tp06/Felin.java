@@ -5,7 +5,7 @@ public class Felin extends Animal {
 // ajout d'attributs propres à la sous-classe
 	protected boolean domestique = false;
 	
-/** le constructeur de Félins fait appel au constructeur de la sur-classe Animal */
+/** le constructeur de Félin fait appel au constructeur de la sur-classe Animal */
 	public Felin(String type) { // les félins ont 4 pattes
 		super(type,4);
 }
