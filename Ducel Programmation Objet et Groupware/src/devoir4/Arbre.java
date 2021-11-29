@@ -2,7 +2,7 @@ package devoir4;
 
 /** Création d'une sous-classe de Vegetal */
 public class Arbre extends Vegetal {
-	//ajout d'attributs propres à cette sous-classe
+	//ajout d'1 attribut propre à cette sous-classe
 	protected boolean caduc = false;
 	
 	/** Constructeur d'Arbre, fait appel au constructeur de Vegetal */
