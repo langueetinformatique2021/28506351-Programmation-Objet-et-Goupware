@@ -3,8 +3,10 @@ package devoir6;
 public class testBlackJack {
 	public static void main(String[] args) {
 		/** On simplifie, le Blackjack se joue alors avec 2 cartes en main */
-		Cartes c1 = new Cartes();
-		Cartes c2 = new Cartes();
+		
+		/**simplification : 11 valeurs possibles : l'as vaut 1 ou 11, 2 vaut 2, etc jusqu'à 10, les figures valent 10*/
+		Cartes c1 = new Cartes(11);
+		Cartes c2 = new Cartes(11);
 
 		int n= 0;
 		try {
